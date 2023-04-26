@@ -1,2 +1,2 @@
-# pkl-dvp
-Dvorak Programmer Layout for Portable Keyboard Layouts: https://github.com/Portable-Keyboard-Layout/Portable-Keyboard-Layout
+# Portable programmer Dvorak layout
+Una version de programmer Dvorak que contiene acentos disponibles para el espanol
